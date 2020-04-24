@@ -5,5 +5,20 @@ a visited {
     color: aqua
 }
 h2 {
-    background-color: aqua
+    background-color: #00E2D7
 }
+
+.sidebar {
+    background-color: #FF7700;
+    color: #00E2D7;
+}
+.orange {
+     color: #00E2D7;
+}
+
+/* Colors used:
+orange: #FF7700
+light blue: #00E2D7
+brown: #F2C078
+light tan: #FAEDCA
+green: #C1DBB3 */
